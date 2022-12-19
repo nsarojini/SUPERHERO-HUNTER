@@ -136,10 +136,7 @@ body {
 
 }
 
-#info {
-  font-family: sans-serif;
 
-}
 
 #title h1 {
   background-image: linear-gradient(to right, rgb(196, 13, 126), rgb(104, 12, 153));
@@ -154,7 +151,7 @@ body {
 }
 
 #info {
-  font-family: sans-serif;
+  font-family: cursive !important;
   font-weight: bold;
 }
 
